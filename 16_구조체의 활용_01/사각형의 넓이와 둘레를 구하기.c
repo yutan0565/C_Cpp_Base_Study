@@ -6,7 +6,7 @@ struct point{
 };
 
 struct rect{
-	struct point p1;
+	struct point p1;6cv
 	struct point p2;
 };
 
