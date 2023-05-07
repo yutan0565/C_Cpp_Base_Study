@@ -1,5 +1,2 @@
-# C_Base_Study
-Study C programing
-
-
-Basic / C for AI
+# C_Cpp_Base_Study
+Study C/C++ programing
